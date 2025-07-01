@@ -1,6 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Sajjad Mahmoodi</h1>
 <h3 align="center">Frontend Developer | Curious Mind | Future Backend Dev 🚀</h3>
+<h4 align="center"><a href="https://sadge2398.github.io/sadge-portfolio/">My Portfolio 👨‍💻</a></h4>
 
 <!-- Dev SVG -->
 <p align="center">
@@ -35,7 +36,6 @@
 ### 🧠 Currently Exploring
 
 - 🛠 Backend Development
-- 🐍 Starting with Nextjs and Nodejs soon!
 
 ---
 
