@@ -54,37 +54,19 @@
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 **Also worked with:** JavaScript · HTML5 · CSS3 · MUI · Bootstrap · Zustand · daisyUI
 
 ---
 
-### 💼 Experience
-
-| Role | Period | Highlights |
-|------|--------|------------|
-| **Jihaad** — Frontend Developer | 2022 – 2024 | Fundamentals, real-world projects, tight deadlines |
-| **Freelancer · Self-taught · Internship** | 2024 – 2025 | Backend APIs, databases, mobile — full products end to end |
-| **Chadco** — Full Stack Developer | Early 2025 – Present | Web apps, backend integrations, data-driven features |
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**BehKhodro**](https://github.com/Sadge2398) | Web shop for car dealerships — high-pressure delivery, many features | Next.js · TypeScript · Node.js · daisyUI · Zustand |
-| [**CyPaaS**](https://github.com/Sadge2398) | Cloud PaaS for build, deploy, and scale (6-month company build) | Next.js · TypeScript · Node.js · MUI · MUI Data Grid |
-
-Explore more on my [**interactive portfolio**](https://sadge2398.github.io/sadge-portfolio/) — built with **Next.js**, **Framer Motion**, and **Three.js** 🌌
-
----
-
 ### 🧠 Currently Exploring
 
 - 🌌 3D web experiences with **Three.js** & **React Three Fiber**
-- 📱 Cross-platform apps with **React Native** & **Expo**
+- 📱 Cross-platform apps with **React Native**, **Expo**, **Kotlin**, & **Flutter**
+- 🥽 **AR** — augmented reality experiences and tooling
 
 ---
 
