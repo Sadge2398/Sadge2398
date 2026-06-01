@@ -1,67 +1,100 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Sajjad Mahmoodi</h1>
-<h3 align="center">Frontend Developer | Curious Mind | Future Backend Dev 🚀</h3>
-<h4 align="center"><a href="https://sadge2398.github.io/sadge-portfolio/">👨‍💻My Portfolio</a></h4>
+<h3 align="center">Full Stack Developer | Web · Backend · Mobile 🚀</h3>
+<h4 align="center">
+  <a href="https://sadge2398.github.io/sadge-portfolio/">👨‍💻 My Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Sadge2398">GitHub</a>
+</h4>
 
 <!-- Dev SVG -->
 <p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/male-php-developer-working-on-desk-illustration-download-in-svg-png-gif-file-formats--html-logo-website-development-web-software-pack-design-illustrations-5054732.png" height="250"/>
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/male-php-developer-working-on-desk-illustration-download-in-svg-png-gif-file-formats--html-logo-website-development-web-software-pack-design-illustrations-5054732.png" height="250" alt="Developer illustration"/>
+</p>
+
+<p align="center">
+  Building end-to-end digital products — from polished interfaces and mobile apps to scalable APIs and databases.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Crafting digital experiences through code. Specialized in building modern web applications with a focus on performance and user experience.  
-- 📚 Currently learning **Backend development**  
-- 🎯 Goal: Become a Full Stack Developer  
+- 🔭 Passionate **Full Stack** developer shipping responsive web apps, reliable backend services, and cross-platform mobile experiences.
+- ⏱️ Coding seriously for **3+ years** — obsessed with polished, performant software.
+- 🏢 **Chadco** — Full Stack Developer (early 2025 – Present): high-performance web apps, backend integrations, and data-driven features.
+- 🎮 Off the keyboard: gaming, F1 races, and time with friends.
 
 ---
 
 ### 🛠️ Tech Stack
 
+**Frontend**
+
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
 </p>
+
+**Backend**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+**Mobile**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+</p>
+
+**Also worked with:** JavaScript · HTML5 · CSS3 · MUI · Bootstrap · Zustand · daisyUI
+
+---
+
+### 💼 Experience
+
+| Role | Period | Highlights |
+|------|--------|------------|
+| **Jihaad** — Frontend Developer | 2022 – 2024 | Fundamentals, real-world projects, tight deadlines |
+| **Freelancer · Self-taught · Internship** | 2024 – 2025 | Backend APIs, databases, mobile — full products end to end |
+| **Chadco** — Full Stack Developer | Early 2025 – Present | Web apps, backend integrations, data-driven features |
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**BehKhodro**](https://github.com/Sadge2398) | Web shop for car dealerships — high-pressure delivery, many features | Next.js · TypeScript · Node.js · daisyUI · Zustand |
+| [**CyPaaS**](https://github.com/Sadge2398) | Cloud PaaS for build, deploy, and scale (6-month company build) | Next.js · TypeScript · Node.js · MUI · MUI Data Grid |
+
+Explore more on my [**interactive portfolio**](https://sadge2398.github.io/sadge-portfolio/) — built with **Next.js**, **Framer Motion**, and **Three.js** 🌌
 
 ---
 
 ### 🧠 Currently Exploring
 
-- 🛠 Backend Development
+- 🌌 3D web experiences with **Three.js** & **React Three Fiber**
+- 📱 Cross-platform apps with **React Native** & **Expo**
 
 ---
 
-### 📫 Reach Out to Me
+### 📫 Reach Out
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajjadshz14@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sajjadmahmoodi)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajjadshz14@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadge2398)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sajjadmahmoodi)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sadge_CC)
-
 
 ---
 
 *Thanks for visiting my profile! 🚀*
-
-<!--
-**Sadge2398/Sadge2398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
