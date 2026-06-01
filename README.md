@@ -21,7 +21,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Passionate **Full Stack** developer shipping responsive web apps, reliable backend services, and cross-platform mobile experiences.
-- ⏱️ Coding seriously for **3+ years** — obsessed with polished, performant software.
+- ⏱️ Coding seriously for **4+ years** — obsessed with polished, performant software.
 - 🏢 **Chadco** — Full Stack Developer (early 2025 – Present): high-performance web apps, backend integrations, and data-driven features.
 - 🎮 Off the keyboard: gaming, F1 races, and time with friends.
 
